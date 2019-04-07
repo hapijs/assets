@@ -6,6 +6,10 @@ Images and other community resources
 
 <img src="https://github.com/hapijs/assets/blob/master/images/hapi.png" width="400px" />
 
+## Family Component
+
+<img src="https://github.com/hapijs/assets/blob/master/images/family.svg" width="180px" />
+
 ## Colors
 
 - Text - #464646
