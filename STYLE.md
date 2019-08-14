@@ -9,15 +9,16 @@
   - The first line of every file should be `'use strict';`. If the file contains a shebang, strict mode should be enabled on the second line.
   - The strict mode directive should be followed by a blank line.
   ```javascript
+  // Right
   'use strict';
 
-  // Right
   console.log('even when not required');
 
+  // Also right
   #!/usr/bin/env node
   'use strict';
 
-  // Also right
+  console.log('even when not required');
 
   // Wrong
   'use strict';
