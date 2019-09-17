@@ -1,28 +1,28 @@
-# hapi.js Code of Conduct
+# hapi Code of Conduct
 
 Please be kind and courteous. There's no need to be mean or rude. Respect that people have differences of opinion and that every design or implementation choice carries a trade-off and numerous costs. There is seldom a right answer. Please keep unstructured critique to a minimum. If you have solid ideas you want to experiment with, make a fork and see how it works.
 
 ## Purpose
 
-This code of conduct outlines our expectations for all those who participate in our community, as well as the consequences for unacceptable behavior. We invite all those who participate in the hapi.js project to help us create safe and positive experiences for everyone.
+This code of conduct outlines our expectations for all those who participate in our community, as well as the consequences for unacceptable behavior. We invite all those who participate in the hapi project to help us create safe and positive experiences for everyone.
 
-A primary goal of the hapi.js project is to be inclusive to the largest number of contributors, with the most varied and diverse backgrounds possible. As such, we are committed to providing a friendly, safe and welcoming environment for all, regardless of gender, gender identity, sexual orientation, ability, ethnicity, socioeconomic status, and religion (or lack thereof).
+A primary goal of the hapi project is to be inclusive to the largest number of contributors, with the most varied and diverse backgrounds possible. As such, we are committed to providing a friendly, safe and welcoming environment for all, regardless of gender, gender identity, sexual orientation, ability, ethnicity, socioeconomic status, and religion (or lack thereof).
 
 A supplemental goal of this Code of Conduct is to increase open source citizenship by encouraging participants to recognize and strengthen the relationships between our actions and their effects on our community. Communities mirror the societies in which they exist and positive action is essential to counteract the many forms of inequality and abuses of power that exist in society.
 
 ## Enforcement
 
-This Code of Conduct is maintained and enforced by the hapi.js core contributors group.
+This Code of Conduct is maintained and enforced by the hapi core contributors group.
 
 ## Scope
 
-This policy applies for any interaction with other hapi.js community members.
+This policy applies for any interaction with other hapi community members.
 
-Whether on GitHub, Twitter, IRC, Gitter, or any other venue, your actions matter. We expect all members of the hapi.js community, including both users and contributors, to behave respectfully to others regardless of venue and regardless whether the communication is about the hapi.js project or not.
+Whether on GitHub, Twitter, IRC, Gitter, or any other venue, your actions matter. We expect all members of the hapi community, including both users and contributors, to behave respectfully to others regardless of venue and regardless whether the communication is about the hapi project or not.
 
 Expressing opinions which may offend others in public or in private may trigger a policy violation review. Our goal is to provide a safe and welcoming environment and when a conflict arises between one person's freedom of expression and another's sense of safety, we will take the necessary actions to ensure the project remains a welcoming and safe environment for all.
 
-A person's past contribution to the hapi.js project will not be considered when evaluating their behavior. No expertise or contribution excuse offensive behavior.
+A person's past contribution to the hapi project will not be considered when evaluating their behavior. No expertise or contribution excuse offensive behavior.
 
 ## Expected Behavior
 
@@ -68,8 +68,7 @@ If a community member engages in unacceptable behavior, the community organizers
 
 You may contact one or more of the listed [team members](https://github.com/orgs/hapijs/people).
 
-## License and attribution
+## Attribution
 
-This Code of Conduct is distributed under a [Creative Commons Attribution-ShareAlike license](http://creativecommons.org/licenses/by-sa/3.0/).
 Adapted from [Citizen Code of Conduct](http://citizencodeofconduct.org/), and the [Rust Project Code of Conduct](http://www.rust-lang.org/conduct.html).
 
